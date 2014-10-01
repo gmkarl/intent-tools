@@ -1,4 +1,4 @@
-package com.github.gmkarl.intent_tools.stream2text;
+package com.github.gmkarl.intent_tools;
 
 import android.app.Activity;
 import android.os.Bundle;
